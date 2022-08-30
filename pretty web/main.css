@@ -5,3 +5,6 @@ body{
     border-width: 10px;
     border-style: dotted;
 }
+#one{
+    color: green;
+}
